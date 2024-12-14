@@ -208,3 +208,19 @@ Evaluates structural alignment between predicted and ground truth frames:
 
 Our Transformer-based model for video frame interpolation achieves a balance between quality and computational efficiency. With further enhancements, it has potential applications in various real-world scenarios.
 
+
+# Results
+- The images on the left represent the ground truth, while the images on the right depict the predicted outputs.
+- The ground truth images are preprocessed for comparison.
+
+![image](https://github.com/user-attachments/assets/6309e623-306d-4ec4-af9a-2fdec816857d)
+
+
+![image](https://github.com/user-attachments/assets/30d56420-21fa-4f0c-81a8-c5f78fd664a5)
+
+
+
+
+  
+
+
